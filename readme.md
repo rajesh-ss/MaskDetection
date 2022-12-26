@@ -21,6 +21,6 @@ The video is analyzed for facemask and the data after detecting whether the mask
     <h1>Screenshots</h1>
 </body>
 </html>
-![]capture.svg
-![]Capture.PNG
-![]circuit.png
+![](capture.svg)
+![](Capture.PNG)
+![](circuit.png)
