@@ -1,8 +1,7 @@
 <html>
   
   <body>
-    
-    <h1>Tools used</h1>
+<h1>Tools used</h1>
     <ul>
       <li>IDE: Arduino IDE</li>
        <li>Board used: Raspberry pi Pico board</li>
